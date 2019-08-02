@@ -23,7 +23,7 @@
     </div>
     
     <br>
-    <h5 style="color:white">রুম ভাড়া:</h5>
+    <h5 style="color:white">রুম বিল:</h5>
     <div class="row">
         <div class="col-2">
         <table class="table table-striped text-center">
@@ -88,7 +88,7 @@
     </div>
 
     <br>
-    <h5 style="color:white">দোকান ভাড়া:</h5>
+    <h5 style="color:white">দোকান বিল:</h5>
     <div class="row">
         <div class="col-6">
         <table class="table table-striped text-center">
