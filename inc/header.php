@@ -1,4 +1,4 @@
-<!--@Author: Ahsanul Haque Aifat-->
+<!--@Author: Ahsanul Haque Rifat-->
 <?php
   //set headers to NOT cache a page
   header("Cache-Control: no-cache, must-revalidate"); //HTTP 1.1
