@@ -10,6 +10,7 @@ class Database {
                 echo $e->getMessage();
             }
         }
+        return self::$pdo;
     }
 
     public function preparee($sql){
